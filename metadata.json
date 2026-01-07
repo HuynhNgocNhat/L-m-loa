@@ -1,0 +1,5 @@
+{
+  "name": "12WF335 Port Analyzer",
+  "description": "Specialized analyzer for existing 12WF335 bass reflex enclosures with triangular ports. Calculates current tuning frequency and suggests modifications.",
+  "requestFramePermissions": []
+}
